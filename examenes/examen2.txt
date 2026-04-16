@@ -1,2 +1,0 @@
-pregunta 2:
-que es git add . ?

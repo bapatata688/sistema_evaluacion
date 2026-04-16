@@ -1,2 +1,0 @@
-pregunta 1: 
-que es git?
