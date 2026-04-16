@@ -1,2 +1,2 @@
 pregunta 5:
-que es git log --oneline?
+que es git log --oneline --all?
